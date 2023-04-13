@@ -13,3 +13,6 @@ The code will assign the numbers automatically. You just need to add the part yo
 We will use the top container for the image sequence, so give it an ID and replace the sequence-container-1 in the code with your ID.
 
 This code will load the photos when the web page loads and change the background every 15 pixels of scroll, playing your video animation. The video will rewind when the scroll goes up. You can change the 15 pixel value as desired.
+
+
+if you need more help, you can send a mail. if it is possible , i answer you
