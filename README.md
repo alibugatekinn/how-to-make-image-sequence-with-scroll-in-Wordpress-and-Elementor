@@ -16,3 +16,4 @@ This code will load the photos when the web page loads and change the background
 
 
 if you need more help, you can send a mail. if it is possible , i answer you
+help : alibugatekin@gmail.com
